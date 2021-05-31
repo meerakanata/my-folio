@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-folio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-folio/static/js/main.1d12b8a0.chunk.js",
+    "main.js.map": "/my-folio/static/js/main.1d12b8a0.chunk.js.map",
+    "runtime-main.js": "/my-folio/static/js/runtime-main.0547cc42.js",
+    "runtime-main.js.map": "/my-folio/static/js/runtime-main.0547cc42.js.map",
+    "static/js/2.49f30222.chunk.js": "/my-folio/static/js/2.49f30222.chunk.js",
+    "static/js/2.49f30222.chunk.js.map": "/my-folio/static/js/2.49f30222.chunk.js.map",
+    "static/js/3.5bc2d9a3.chunk.js": "/my-folio/static/js/3.5bc2d9a3.chunk.js",
+    "static/js/3.5bc2d9a3.chunk.js.map": "/my-folio/static/js/3.5bc2d9a3.chunk.js.map",
+    "index.html": "/my-folio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-folio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.49f30222.chunk.js.LICENSE.txt": "/my-folio/static/js/2.49f30222.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0547cc42.js",
+    "static/js/2.49f30222.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1d12b8a0.chunk.js"
+  ]
+}
